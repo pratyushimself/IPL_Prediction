@@ -13,7 +13,7 @@ This project aims to predict the outcome of IPL (Indian Premier League) matches 
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/jax1608/IPL_Prediction.git
+   git clone https://github.com/ptayushimself/IPL_Prediction.git
 
 ## Install dependencies:
 - pip install -r requirements.txt
